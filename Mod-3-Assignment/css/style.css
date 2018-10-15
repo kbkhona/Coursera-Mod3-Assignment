@@ -1,0 +1,79 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	color: rgb(119,119,119);
+}
+
+.navbar {
+	background-color: #99ffcc;
+	border: 0;
+	border-radius: 0;
+
+}
+
+h1 {
+	margin-top: 0;
+	margin-left: 20px
+}
+
+.navbar-brand {
+	margin-bottom: 15px;
+}
+
+button.navbar-toggle {
+	margin-top: 15px;
+	border: 1px solid rgb(119,119,119);;
+}
+
+ul a {
+	color: rgb(119,119,119);
+}
+
+ul a:hover {
+	text-decoration: none;
+}
+
+a li:hover {
+	background-color: #00b36b;
+	color: #006600;
+	font-size: 1.2em;
+}
+
+h2 {
+	margin-top: 50px;
+	margin-bottom: 80px;
+}
+
+h3 {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.container p {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#collapsable-nav {
+	background-color: #9fdfbf;
+
+}
+
+#chickenmenu, #beefmenu, #sushimenu {
+	margin: 50 auto 50 auto;
+	margin-bottom: 30px;
+}
+
+#chickenmenu {
+	background-color: #9fdfbf;
+}
+
+#beefmenu {
+	background-color: #9fdfbf;
+}
+
+#sushimenu {
+	background-color: #9fdfbf;
+}
